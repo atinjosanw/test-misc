@@ -1,1 +1,2 @@
 This is a test while learning git
+Entering second line
